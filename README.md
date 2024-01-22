@@ -1,20 +1,26 @@
-### Olá, sou o Arisio
+# Curso "Git e GitHub: do básico ao avançado"
 
-- 🎓 Técnico em Redes de Computadores.
-- 📚 Acadêmico em Sistemas de Informação.
-- 🤓 Apaixonado por tecnologia.
+Bem-vindo ao meu repositório do [curso completo de Git e GitHub](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/) ministrado por [Matheus Battisti](https://www.udemy.com/user/matheus-battisti/)!
 
-## Tecnologias que estou estudando:
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=gray)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=gray)
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=gray) 
+## Descrição do Curso
+
+Este curso abrange desde os conceitos mais básicos até as aplicações mais avançadas do Git e GitHub, proporcionando uma abordagem prática para o controle de versão e a manutenção eficiente de repositórios. Com um total de 101 aulas em vídeo e 8,5 horas de conteúdo de alta qualidade.
+
+## Sobre o Instrutor
+"Olá, eu sou Matheus, um desenvolvedor Full Stack apaixonado por explorar novas tecnologias diariamente. Minha dedicação ao aprendizado constante me levou a compartilhar meu conhecimento através do Hora De Codar, um blog e canal no YouTube onde ofereço cursos gratuitos sobre diversas tecnologias."
 
 
-## Me encontre aqui
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=gray)](https://t.me/arisioandrad/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=gray)](https://www.linkedin.com/in/arisioandrade)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=gray)](https://www.instagram.com/arisioandrade_/)
+## Conteúdo do Curso
 
-##
-![Arisio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&layout=compact&bg_color=000000)
+Neste curso, eu aprendi:
 
+- Utilizar o Git e GitHub como no dia a dia de um desenvolvedor de software.
+- Comandos básicos e avançados do Git.
+- Gerenciar repositórios locais e externos, como no GitHub.
+- Criar e compartilhar gists.
+- Desenvolver um portfólio utilizando o GitHub Pages.
+- Fluxo completo de controle de versão de um projeto (Code Review, Pull Request, Issues, etc.).
+- Criar documentos utilizando Markdown.
+
+## Certificado
+CURSO AINDA NÃO CONCLUIDO!
