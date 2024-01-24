@@ -22,5 +22,3 @@ Neste curso, eu aprendi:
 - Fluxo completo de controle de versão de um projeto (Code Review, Pull Request, Issues, etc.).
 - Criar documentos utilizando Markdown.
 
-## Certificado
-CURSO AINDA NÃO CONCLUIDO!
